@@ -32,7 +32,7 @@
 .dtr-form-row-2col .dtr-form-column, .dtr-form-row-3col .dtr-form-column, .dtr-form-row-unequal .dtr-form-column, .dtr-form-row-unequal .dtr-form-column:last-child, .dtr-form-row-2col-unequal .dtr-form-column, .dtr-form-row-2col-unequal .dtr-form-column:last-child { width: 100%; }
 .dtr-testimonial-content { padding: 0 20px; }
 .dtr-pricing { margin-top: 15px; margin-bottom: 15px; }
-.dtr-blog-item { margin-top: 30px; margin-bottom: 30px; }
+.dtr-blog-item { margin-top: 70px; margin-bottom: 30px; }
 /* portfolio */
 .dtr-portfolio-grid-2col, .dtr-portfolio-grid-3col, .dtr-portfolio-grid-4col, .dtr-portfolio-grid-5col { margin: 0 -15px; }
 .dtr-portfolio-grid-2col .dtr-portfolio-item, .dtr-portfolio-grid-3col .dtr-portfolio-item, .dtr-portfolio-grid-4col .dtr-portfolio-item { width: 50%; padding: 0 15px; }
