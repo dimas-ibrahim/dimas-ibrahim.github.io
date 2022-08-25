@@ -346,7 +346,7 @@ ol li, ul li { margin-bottom: 10px; }
 /*----------------------------------------*/
 /*===== hero section =====*/
 /* padding top equals to height of header */
-.dtr-hero-section-top-padding { padding-top: 100px; }
+.dtr-hero-section-top-padding { padding-top: 50px; }
 
 /* padding top for responsive hero section */
 @media (max-width: 992px) {
